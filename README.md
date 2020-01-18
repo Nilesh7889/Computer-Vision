@@ -1,6 +1,6 @@
 # Robot-Finding-Ball
 
-The task here is to help a robot to identify a bright orange ball in its surrounding.
+## The task here is to help a robot to identify a bright orange ball in its surrounding.
 The ball.bmp is an image obtained from a camera mounted on the robot.
 
 ![ball](https://user-images.githubusercontent.com/43874699/72658811-70d9a700-3984-11ea-8a9b-95d3ada7286e.jpg)
@@ -9,7 +9,7 @@ Implemented a Myrgb2hsi function to convert red-green-blue (RGB) colors to hue-s
 
 ![3](https://user-images.githubusercontent.com/43874699/72658774-cb263800-3983-11ea-94cf-c63dbdab3f23.jpg)
 
-###function [H, S, I] = Myrgb2hsi(Im)
+### function [H, S, I] = Myrgb2hsi(Im)
 
 In the function Im is the original color image, and H, S, and I are the normalized hue value, saturation-value, and intensity value in the HSI color space, respectively. The H, S, and I here is in the range of [0, 1].
 
