@@ -5,7 +5,7 @@ The ball.bmp is an image obtained from a camera mounted on the robot.
 
 Implemented a Myrgb2hsi function to convert red-green-blue (RGB) colors to hue-saturation-intensity (HSI).
 
-#2 function [H, S, I] = Myrgb2hsi(Im)
+function [H, S, I] = Myrgb2hsi(Im)
 
 In the function Im is the original color image, and H, S, and I are the normalized hue value, saturation-value, and intensity value in the HSI color space, respectively. The H, S, and I here is in the range of [0, 1].
 
