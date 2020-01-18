@@ -1,6 +1,6 @@
 # Robot-Finding-Ball
 
-## The task here is to help a robot to identify a bright orange ball in its surrounding.
+## The Project is to help a robot to identify a bright orange ball in its surrounding.
 The ball.bmp is an image obtained from a camera mounted on the robot.
 
 ![ball](https://user-images.githubusercontent.com/43874699/72658811-70d9a700-3984-11ea-8a9b-95d3ada7286e.jpg)
