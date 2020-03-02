@@ -1,5 +1,4 @@
-# Tracking objects from surrounding using camera vision 
-
+# Tracking objects from surrounding 
 ## The Project is to help a robot to identify a bright orange ball in its surrounding using camera.
 The ball.bmp is an image obtained from a camera mounted on the robot.
 
